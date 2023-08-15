@@ -8,8 +8,8 @@ export default function Header() {
         <div className='bg-red-500 h-20 w-full'>
         <img src={Logo} alt='burger' className='w-64'/>
         </div>
-        <div className='bg-green-500 h-20 w-full'>
-        
+        <div className=' h-20 w-full font-secondary'>
+          c'est c'est monment de gouter
         </div>
     </div>
   )
